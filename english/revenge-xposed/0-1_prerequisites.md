@@ -1,5 +1,7 @@
->[!warning] BEFORE YOU CONTINUE
->If you don't know what any of these mean, then this method is not suitable for you.
+> [!WARNING] BEFORE YOU CONTINUE
+> If you don't know what any of these mean, then this method is not suitable for you.
+
+
 ## Prerequisites
 In order to successfully install Revenge via xposed, you will need the following:
 1. Discord installed, make sure it's the latest version.

@@ -1,6 +1,7 @@
 ## Installation
 
-> [!info] Before continuing, make sure you fulfill the [requirements](0_index.md).
+> [!NOTE]
+> Before continuing, make sure you fulfill the [requirements](0_index.md).
 
 
 1. Get latest version of revenge-xposed [here](https://github.com/revenge-mod/revenge-xposed/releases/latest). Download the `.apk` file.
@@ -21,4 +22,5 @@
 6. Now, open Discord and go to settings. You should see a `Revenge` section like this:
 
 	![Checking it](images/installation_6.png)
+	
 That's it! Enjoy!
