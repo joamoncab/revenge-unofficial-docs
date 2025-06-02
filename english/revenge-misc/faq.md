@@ -2,6 +2,13 @@
 
 ### Index
 1. [How do I install a plugin?](#how-do-i-install-a-plugin)
+2. [Where can I find plugins to install?](#where-can-i-find-plugins-to-install)
+3. [I want 'x' plugin!](#i-want-x-plugin)
+4. [Why can't I enable some plugins?](#why-cant-i-enable-some-plugins)
+5. [My Revenge doesn't boot! It's stuck on the logo! Help!](#my-revenge-doesnt-boot-its-stuck-on-the-logo-help)
+6. [Where do I get fonts?](#where-do-i-get-fonts)
+7. [How do I use my own personal font?](#how-do-i-use-my-own-personal-font)
+8. [How do I install those fonts?](#how-do-i-install-those-fonts)
 
 #### How do I install a plugin?
 Copy the link, and then:
@@ -99,4 +106,5 @@ Copy the link, and then:
 5. Click on 'Import font entries from a link'
 6. Paste the link
 7. Click on 'Import button' button
-  You could import it manually without using a JSON but this is way faster and assures you won't misconfig anything.
+
+>You could import it manually without using a JSON but this is way faster and assures you won't misconfig anything.
