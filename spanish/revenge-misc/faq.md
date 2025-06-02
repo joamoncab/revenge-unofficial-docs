@@ -1,7 +1,7 @@
 ## FAQ
 
-### Index
-1. [How do I install a plugin?](#how-do-i-install-a-plugin)
+### Índice
+TODO
 
 #### How do I install a plugin?
 Copy the link, and then:
