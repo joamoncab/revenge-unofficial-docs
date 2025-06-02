@@ -27,7 +27,9 @@ They are broken. Either look for an alternative or if there isn't make your own,
 
 #### My Revenge doesn't boot! It's stuck on the logo! Help!
 Update to beta or alpha version.
+
 <sub>thanks rusk and waffle for the tip</sub>
+
 Alternatively, for Revenge-xposed installations:
 
 > [!WARNING]
