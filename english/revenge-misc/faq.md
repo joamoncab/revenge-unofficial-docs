@@ -11,6 +11,7 @@ Copy the link, and then:
 4. Click on '+' button
 5. Click on 'import from clipboard' button
 6. Click on 'install' button
+
 > [!WARNING] 
 > Keep in mind that this links are unproxied. In order to have more safe plugins install 'Plugin browser' following the previous steps and then install all plugins from there.
 
@@ -26,12 +27,19 @@ They are broken. Either look for an alternative or if there isn't make your own,
 
 #### My Revenge doesn't boot! It's stuck on the logo! Help!
 - Update to beta or alpha version 
+
 -# thanks rusk and waffle for the tip
+
 Alternatively, for Revenge-xposed installations:
+
   **THIS WILL DELETE YOUR PLUGINS IF YOU DON'T HAVE CLOUD SAVE** even though you just have to accept it because there is no other way at the moment 
+  
 delete app data, that's it
+
   if you have cloud sync, install it and get everything back, else you gotta install it manually
+  
 > To clean app data go to android settings > apps > discord (revenge) > clear app data. Will vary depending on the manufacturer
+
 Another option for Revenge Manager installations:
 1. Uninstall Discord
 2. Clean Revenge Manager cache
@@ -39,6 +47,7 @@ Another option for Revenge Manager installations:
 > To clean app cache go to android settings > apps > revenge manager > clear app cache. Will vary depending on the manufacturer
 
 3. Reinstall Discord
+
 -# thanks catinette. for that
 
 #### Where do I get fonts?
