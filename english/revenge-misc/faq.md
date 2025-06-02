@@ -26,17 +26,16 @@ Search for it on the community maintained list, on plugin browser or just use a 
 They are broken. Either look for an alternative or if there isn't make your own, or cry about it.
 
 #### My Revenge doesn't boot! It's stuck on the logo! Help!
-- Update to beta or alpha version 
-
--# thanks rusk and waffle for the tip
-
+Update to beta or alpha version.
+<sub>thanks rusk and waffle for the tip</sub>
 Alternatively, for Revenge-xposed installations:
 
-  **THIS WILL DELETE YOUR PLUGINS IF YOU DON'T HAVE CLOUD SAVE** even though you just have to accept it because there is no other way at the moment 
+> [!WARNING]
+> **THIS WILL DELETE YOUR PLUGINS IF YOU DON'T HAVE CLOUD SAVE** even though you just have to accept it because there is no other way at the moment 
   
 delete app data, that's it
 
-  if you have cloud sync, install it and get everything back, else you gotta install it manually
+> if you have cloud sync, install it and get everything back, else you gotta install it manually
   
 > To clean app data go to android settings > apps > discord (revenge) > clear app data. Will vary depending on the manufacturer
 
@@ -48,7 +47,7 @@ Another option for Revenge Manager installations:
 
 3. Reinstall Discord
 
--# thanks catinette. for that
+<sub>thanks catinette. for that</sub>
 
 #### Where do I get fonts?
 1. From Rariof's repo:
