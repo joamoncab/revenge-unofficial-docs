@@ -1,0 +1,14 @@
+{
+  "name": "revenge-unofficial-docs",
+  "version": "1.0.0",
+  "description": "Unofficial docs for Revenge modded client with GitBook-like interface",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  }
+}
