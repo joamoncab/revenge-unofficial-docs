@@ -8,7 +8,7 @@ export default defineConfig({
   cleanUrls: true,
   
   // Base path for GitHub Pages (will be set to repo name if needed)
-  base: '/',
+  base: '/revenge-unofficial-docs/',
   
   // Ignore dead links from old markdown files
   ignoreDeadLinks: true,
